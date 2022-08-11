@@ -3,7 +3,7 @@
   "logo": "https://telegra.ph/file/74fb72c6e6b04b6fc5eef.jpg",
   "description": "A Fast & Powerful VC Player bot to play songs in Telegram Video Chat written in Python with the help of Pyrogram & PyTg-Calls.",
   "keywords": ["music", "voicechat", "python", "telegram-bot", "pyrogram", "telegram", "fallen"],
-  "repository": "https://github.com/HnYRobo/HnYMusic",
+  "repository": "https://github.com/vaibhav675v/HnYMusic",
   "stack": "container",
   "env": {
     "API_ID": {
