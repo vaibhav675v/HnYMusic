@@ -11,7 +11,7 @@ ping_ig = InlineKeyboardMarkup(
                 ),
                 InlineKeyboardButton(
                     text="sᴏᴜʀᴄᴇ",
-                    url="https://github.com/HNYROBO/HnYMusic"
+                    url="https://telegra.ph/file/2614b9f734af35d9f7d2f.jpg"
                 )
             ]
         ]
