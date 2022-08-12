@@ -213,7 +213,7 @@ async def start_command(_, message):
             ],
             [
                 InlineKeyboardButton(
-                    text="💡 ɢɪᴛ ʀᴇᴘᴏ", url="https://github.com/HNYROBO/HnYMusic"
+                    text="💡 ɢɪᴛ ʀᴇᴘᴏ", url="https://telegra.ph/file/2614b9f734af35d9f7d2f.jpg"
                 )
             ],
         ]
@@ -253,7 +253,7 @@ async def fallen_home(_, CallbackQuery):
             ],
             [
                 InlineKeyboardButton(
-                    text="💡 ɢɪᴛ ʀᴇᴘᴏ", url="https://github.com/HNYROBO/HnYMusic"
+                    text="💡 ɢɪᴛ ʀᴇᴘᴏ", url="https://telegra.ph/file/2614b9f734af35d9f7d2f.jpg"
                 )
             ],
         ]
