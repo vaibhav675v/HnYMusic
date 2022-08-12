@@ -116,7 +116,7 @@ async def fallen_boot():
     console.print(f"\n[red]Stopping Bot")
 
 
-home_text_pm = f"""**ʜᴇʟʟᴏ, ᴍʏ ɴᴀᴍᴇ ɪꜱ {BOT_NAME}.\n\n ɪ'ᴍ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ꜱᴛʀᴇᴀᴍɪɴɢ ʙᴏᴛ ᴡɪᴛʜ ꜱᴏᴍᴇ ᴜꜱᴇꜰᴜʟ ꜰᴇᴀᴛᴜʀᴇꜱ.\n\nꜰᴇᴇʟ ꜰʀᴇᴇ ᴛᴏ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ**"""
+home_text_pm = f"""**ʜᴇʏ ʙᴀʙʏ 😜 ɪ ᴀᴍ {BOT_NAME}.\n\n ➲ ᴀ ᴩᴏᴡᴇʀғᴜʟ ᴍᴜsɪᴄ ᴩʟᴀʏᴇʀ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ᴀɴᴅ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs.\n\n ➲ ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀs ᴀ ᴀᴅᴍɪɴ ᴡɪᴛʜ ᴠᴄ & ᴅᴇʟᴇᴛᴇ ᴘᴇʀᴍɪssɪᴏɴ | ᴛʜᴇɴ ᴇɴᴊᴏʏ ʏᴏᴜʀ ᴍᴜsɪᴄ 💞**"""
 
 
 @app.on_message(filters.command("start") & filters.private)
@@ -245,22 +245,4 @@ async def fallen_home(_, CallbackQuery):
             ],
             [
                 InlineKeyboardButton(
-                    text="🇮🇳 ꜱᴜᴘᴘᴏʀᴛ 🇮🇳", url=config.SUPPORT_CHAT
-                ),
-                InlineKeyboardButton(
-                    text="🇮🇳 ᴄʜᴀɴɴᴇʟ 🇮🇳", url=config.SUPPORT_CHANNEL
-                ),
-            ],
-            [
-                InlineKeyboardButton(
-                    text="💡 ɢɪᴛ ʀᴇᴘᴏ", url="https://telegra.ph/file/2614b9f734af35d9f7d2f.jpg"
-                )
-            ],
-        ]
-    ),
- )
-
-
-
-if __name__ == "__main__":
-    loop.run_until_complete(fallen_boot())
+                    text="🇮🇳 ꜱᴜᴘᴘᴏʀᴛ
